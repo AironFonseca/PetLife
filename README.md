@@ -1,7 +1,7 @@
 ## Página desenvolvida durante o curso fullstack javascript do OneBitCode🤘
 
 ## Descrição
-A página PetLife é um projeto sobre uma página de petshop desenvolvido durante o curso fullstack javascript do OneBitCode com o objetivo de mostrar o poder que as tecnologias do HTML5, CSS3 e Javascript são capazes de fazer juntos. 
+A página PetLife é um projeto sobre uma página de Petshop desenvolvido durante o curso Fullstack Javascript do OneBitCode com o objetivo de mostrar o poder que as tecnologias do HTML5, CSS3 e Javascript são capazes de fazer juntos. 
 Nele temos imagens e cores que chamam a atenção, ações de abrir quadrados com perguntas e respostas, links para direcionar a alguma área da página e link de whatsapp para marcar uma consulta. 
 
 ## 🧑‍💻Tecnologias utilizadas para o projeto
