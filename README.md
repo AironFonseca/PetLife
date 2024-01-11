@@ -12,7 +12,7 @@ Nele temos imagens e cores que chamam a atenção, ações de abrir quadrados co
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E) Utilizado para fazer as ações de clicar nos quadrados com perguntas e abrir as respostas.
 
 
-## prévia
+## Prévia
 Uma prévia do início da página 🐶🐱
 
 ![previa petlife](https://github.com/AironFonseca/PetLife/assets/155979832/74f7489e-b12b-4c9f-9486-5f7a4a0c47e2)
